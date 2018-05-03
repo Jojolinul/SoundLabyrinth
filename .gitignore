@@ -1,0 +1,10 @@
+*.vs
+*.opensdf
+*.opendb
+*.sdf
+*.ipch
+Release/*
+Debug/*
+SoundLabyrinthProject/Debug/*
+SoundLabyrinthProject/Release/*
+SoundLabyrinthProject/x64/*
